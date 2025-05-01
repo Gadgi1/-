@@ -1,12 +1,5 @@
 
-// Task 1: Create and manipulate different data types
-let numberExample = 42;
-let stringExample = 'Hello World';
-let objectExample = { name: 'John', age: 25 };
-
-// Your task: Create an array of objects representing students
-// Each object should have: name, grade, and isActive properties
-
+//Задание1
 
 //Выполнение:
 function student2 () {
